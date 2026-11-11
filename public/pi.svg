@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <style>
+        .pi-symbol { stroke: #242424; }
+        @media (prefers-color-scheme: dark) {
+            .pi-symbol { stroke: #fff; }
+        }
+    </style>
+    <path fill="#d63939" d="M12 0C21.6 0 24 2.4 24 12S21.6 24 12 24 0 21.6 0 12 2.4 0 12 0Z" />
+    <g class="pi-symbol" transform="translate(3 3) scale(0.75)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 20V4" />
+        <path d="M17 4v16" />
+        <path d="M20 4H4" />
+    </g>
+</svg>
